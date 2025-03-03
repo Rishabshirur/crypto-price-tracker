@@ -21,7 +21,7 @@ To set up both the web app and the documentation site, follow these steps:
 
 ```bash
 git clone https://github.com/Rishabshirur/crypto-price-tracker.git
-cd your-repository
+cd crypto-price-tracker
 ```
 
 #### 2. Set up the Next.js project (/web-app):
