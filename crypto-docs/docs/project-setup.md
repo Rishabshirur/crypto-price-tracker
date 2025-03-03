@@ -7,8 +7,8 @@ To set up and run the web application locally, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-repository-url.git
-cd your-project-folder
+git clone https://github.com/Rishabshirur/crypto-price-tracker.git
+cd web-app
    ```
 2. **Install the dependencies:**
 
@@ -28,8 +28,8 @@ To run the Crypto Price Tracker mobile app, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repository-url.git
-cd your-project-folder
+git clone https://github.com/Rishabshirur/crypto-price-tracker.git
+cd web-app
 ```
 
 Install mobile app dependencies:
