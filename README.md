@@ -30,9 +30,9 @@ cd web-app
 npm install
 ```
 
-#### 3. Set up the Docusaurus documentation (/docs):
+#### 3. Set up the Docusaurus documentation (/crypto-docs):
 ```bash
-cd ../docs
+cd ../crypto-docs
 npm install
 ```
 
