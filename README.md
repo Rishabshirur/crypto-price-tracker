@@ -2,8 +2,8 @@
 
 This repository contains two main components:
 
-- **/web-app**: A Next.js project
-- **/crypto-docs**: Docusaurus documentation site
+- **/web-app**: A web dashboard (Next.js) to display live cryptocurrency prices
+- **/crypto-docs**: A developer documentation page (Docusaurus) explaining the approach.
 
 ## Setup Instructions
 
